@@ -1,0 +1,69 @@
+body{
+    background-color: #CD5D5D;
+}
+h1{
+    text-align: center;
+    font-size: 64px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+span{
+    color: yellow;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+h2{
+    font-weight: 200;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 60px;
+}
+.v{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.vv{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.vvv{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.vvvv{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.vvvvv{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.vvvvvv{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
